@@ -1,0 +1,10 @@
+[task]
+name = "json-to-csv-filter"
+description = "Filter active users from a JSON file and save their details to a CSV file."
+category = "data-processing"
+difficulty = "easy"
+
+[resources]
+memory_mb = 512
+storage_mb = 128
+timeout_seconds = 300
